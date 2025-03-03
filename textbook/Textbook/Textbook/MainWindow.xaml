@@ -1,0 +1,18 @@
+﻿<Window x:Class="Textbook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Textbook"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="792">
+            <Button Content="Button" HorizontalAlignment="Left" Margin="30,20,0,0" VerticalAlignment="Top" Width="250" RenderTransformOrigin="-0.267,-0.053" Height="120" Click="Button_Click"/>
+        </Grid>
+
+    </Grid>
+</Window>

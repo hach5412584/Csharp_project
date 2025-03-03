@@ -1,0 +1,15 @@
+D:\南台\VS\C#_forms\print\print\bin\Debug\print.exe.config
+D:\南台\VS\C#_forms\print\print\bin\Debug\print.exe
+D:\南台\VS\C#_forms\print\print\bin\Debug\print.pdb
+D:\南台\VS\C#_forms\print\print\obj\Debug\print.csprojAssemblyReference.cache
+D:\南台\VS\C#_forms\print\print\obj\Debug\MainWindow.g.cs
+D:\南台\VS\C#_forms\print\print\obj\Debug\App.g.cs
+D:\南台\VS\C#_forms\print\print\obj\Debug\print_MarkupCompile.cache
+D:\南台\VS\C#_forms\print\print\obj\Debug\print_MarkupCompile.lref
+D:\南台\VS\C#_forms\print\print\obj\Debug\MainWindow.baml
+D:\南台\VS\C#_forms\print\print\obj\Debug\print.g.resources
+D:\南台\VS\C#_forms\print\print\obj\Debug\print.Properties.Resources.resources
+D:\南台\VS\C#_forms\print\print\obj\Debug\print.csproj.GenerateResource.cache
+D:\南台\VS\C#_forms\print\print\obj\Debug\print.csproj.CoreCompileInputs.cache
+D:\南台\VS\C#_forms\print\print\obj\Debug\print.exe
+D:\南台\VS\C#_forms\print\print\obj\Debug\print.pdb
